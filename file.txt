@@ -1,2 +1,6 @@
 init commit
 master commit
+f1 c1
+f1 c2
+f2 c1
+f2 c2
